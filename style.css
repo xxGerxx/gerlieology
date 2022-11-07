@@ -945,8 +945,7 @@ a{
     position: relative;
     padding: 2px 400px;
 }
-.contact a{
-    color: inherit;
+a{
     font-family: sans-serif;
 }
 /*end of contacts*/
