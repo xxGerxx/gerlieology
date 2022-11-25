@@ -73,7 +73,7 @@
 .title h1{
     font-size: 70px;
     font-weight: 500;
-    font-family: orbitron;
+    font-family: 'orbitron';
     position: relative;
     z-index: 10;
 }
@@ -97,7 +97,7 @@
     display: inline-block;
     font-size: 150px;
     font-weight: 500;
-    font-family: orbitron;
+    font-family: 'orbitron';
     -webkit-text-stroke: 2.5px #ff00e6;
     -webkit-text-fill-color: transparent;
     transform: translateY(100px);
